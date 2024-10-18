@@ -192,3 +192,53 @@
 2024-10-18 11:01:20,164:INFO:User asked: Hi
 2024-10-18 11:01:20,164:INFO:Assistant answered: Hello! How can I assist you with climate change or weather-related questions today?
 2024-10-18 11:01:27,530:INFO:User asked: weather in london
+2024-10-18 11:02:36,544:INFO:User asked: Hi
+2024-10-18 11:02:36,544:INFO:Assistant answered: Hello! How can I assist you with climate change or weather-related questions today?
+2024-10-18 11:02:44,661:INFO:User asked: weather in london
+2024-10-18 11:02:46,467:INFO:Assistant answered: The current temperature in london is 9.31°C with 0.
+2024-10-18 11:02:54,919:INFO:User asked: causes of climate change
+2024-10-18 11:02:56,950:INFO:Assistant answered: Error fetching climate data: HTTPSConnectionPool(host='api.appweather.com', port=443): Max retries exceeded with url: /climate/causes%20of%20climate%20change (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'api.appweather.com'. (_ssl.c:1000)")))
+2024-10-18 11:24:06,150:INFO:User asked: weather in nairobi
+2024-10-18 11:24:08,144:INFO:Assistant answered: The current temperature in nairobi is 23.88°C with 1.
+2024-10-18 11:28:18,880:INFO:User asked: Hi
+2024-10-18 11:28:18,880:INFO:Assistant answered: Hello! How can I assist you with climate change or weather-related questions today?
+2024-10-18 11:28:25,398:INFO:User asked: weather in cape town
+2024-10-18 11:28:25,838:INFO:Assistant answered: The current weather in cape town is broken clouds with a temperature of 17.42°C.
+2024-10-18 11:28:41,522:INFO:User asked: causes of climate change
+2024-10-18 11:28:42,795:INFO:Assistant answered: Couldn't fetch data. Please try again.
+2024-10-18 11:36:35,340:INFO:User asked: Hi
+2024-10-18 11:36:35,340:INFO:Assistant answered: Hello! How can I assist you with climate change or weather-related questions today?
+2024-10-18 11:36:40,952:INFO:User asked: weather in nairobi
+2024-10-18 11:36:40,952:INFO:Assistant answered: Please specify the coordinates in the format: 'What's the weather at latitude, longitude?'
+2024-10-18 11:36:53,563:INFO:User asked: what causes climate change
+2024-10-18 11:36:53,563:INFO:Assistant answered: This functionality is not implemented yet.
+2024-10-18 11:37:03,393:INFO:User asked: define climate change
+2024-10-18 11:37:03,393:INFO:Assistant answered: This functionality is not implemented yet.
+2024-10-18 11:41:14,145:INFO:User asked: Hi
+2024-10-18 11:41:14,145:INFO:Assistant answered: Hello! How can I assist you with climate change or weather-related questions today?
+2024-10-18 11:41:19,889:INFO:User asked: weather in nairobi
+2024-10-18 11:41:20,330:INFO:Assistant answered: The current weather in nairobi according to OpenWeather is light rain with a temperature of 24.19°C.
+2024-10-18 11:41:33,063:INFO:User asked: causes of climate change
+2024-10-18 11:41:33,063:INFO:Assistant answered: This functionality is not implemented yet.
+2024-10-18 11:41:48,018:INFO:User asked: define global warming
+2024-10-18 11:41:48,018:INFO:Assistant answered: This functionality is not implemented yet.
+2024-10-18 11:43:03,035:INFO:User asked: What's the weather forecast in New York
+2024-10-18 11:43:03,390:INFO:Assistant answered: The current weather in New York according to OpenWeather is clear sky with a temperature of 8.93°C.
+2024-10-18 11:43:35,847:INFO:User asked: What's the tomorrow weather in Nairobi
+2024-10-18 11:43:36,176:INFO:Assistant answered: The current weather in Nairobi according to OpenWeather is light rain with a temperature of 24.19°C.
+2024-10-18 11:44:06,910:INFO:User asked: Hi
+2024-10-18 11:44:06,910:INFO:Assistant answered: Hello! How can I assist you with climate change or weather-related questions today?
+2024-10-18 11:44:13,985:INFO:User asked: weather in nairobi
+2024-10-18 11:44:13,985:INFO:Assistant answered: Please specify the coordinates in the format: 'What's the weather at latitude, longitude?'
+2024-10-18 11:46:38,762:INFO:User asked: Hi
+2024-10-18 11:46:38,762:INFO:Assistant answered: Hello! How can I assist you with climate change or weather-related questions today?
+2024-10-18 11:46:44,267:INFO:User asked: weather in london
+2024-10-18 11:46:44,283:INFO:Assistant answered: Please specify the coordinates in the format: 'What's the weather at latitude, longitude?'
+2024-10-18 11:47:31,679:INFO:User asked: hi
+2024-10-18 11:47:31,679:INFO:Assistant answered: Hello! How can I assist you with climate change or weather-related questions today?
+2024-10-18 11:47:41,747:INFO:User asked: weather in london
+2024-10-18 11:47:41,747:INFO:Assistant answered: Please specify the coordinates in the format: 'What's the weather at latitude, longitude?'
+2024-10-18 11:48:38,303:INFO:User asked: Hi
+2024-10-18 11:48:38,303:INFO:Assistant answered: Hello! How can I assist you with climate change or weather-related questions today?
+2024-10-18 11:48:44,016:INFO:User asked: weather in nairobi
+2024-10-18 11:48:44,553:INFO:Assistant answered: The current weather in nairobi is light rain with a temperature of 24.19°C.
